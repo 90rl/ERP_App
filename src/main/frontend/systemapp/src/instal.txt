@@ -1,0 +1,5 @@
+npm install bootstrap
+npm install --save axios
+npm install --save-dev css-loader
+npm install --save react-router-dom
+npn start

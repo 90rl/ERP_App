@@ -1,0 +1,14 @@
+.container{
+    max-width: 100%;
+}
+
+.btn_new_dokument{
+    margin-bottom: 1rem;
+    margin-right: 8%;
+    text-align: right
+}
+
+.doc_view{
+    min-width: 1500px;
+    max-width: 1500px;
+}

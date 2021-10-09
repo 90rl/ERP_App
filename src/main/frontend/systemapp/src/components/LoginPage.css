@@ -1,0 +1,42 @@
+body{
+    background-color: aliceblue;
+    /* border: 1px solid darkred; */
+}
+
+.LoginBox{
+    width: 22rem;
+    height: auto;
+    border-radius: 80px;
+    box-shadow: 0 0 10px 0 rgb(0, 115, 230, 0.3);
+    /* border: 1px solid darkred; */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.CompanyLogo{
+    height: 200px;
+    size: 100px;
+    border-radius: 900px;
+    /* border: 1px solid green; */
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.loginForm{
+    text-align: auto;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.conatainer{
+    justify-content: right;
+    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn-block{
+    justify-content: right;
+}

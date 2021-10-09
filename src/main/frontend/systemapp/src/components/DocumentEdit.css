@@ -1,0 +1,17 @@
+.container{
+    max-width: 100%;
+}
+
+.btn_new_dokument{
+    margin-bottom: 1rem;
+    margin-right: 8%;
+    text-align: right
+}
+
+.table-responsive{
+    margin-top: 50px;
+}
+
+.documentTable{
+    min-width: 1500px;
+}

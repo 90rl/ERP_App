@@ -1,0 +1,27 @@
+body{
+    background-color: aliceblue;
+}
+
+.container{
+    background-color: aliceblue;
+}
+
+.Box_size{
+    width: 400px;
+    background-color: aliceblue;
+}
+
+
+.CompanyLogo{
+    height: 200px;
+    width: 200px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button_zaloguj{
+    margin-top: 40px;
+    text-align: center;
+}

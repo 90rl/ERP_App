@@ -1,0 +1,13 @@
+.container{
+    max-width: 80%;
+}
+
+.btn_new_dokument{
+    margin-bottom: 1rem;
+    margin-right: 8%;
+    text-align: right
+}
+
+.container_Company{
+    width: 1500px;
+}

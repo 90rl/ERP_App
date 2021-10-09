@@ -1,0 +1,21 @@
+.container
+{
+padding-top: 2rem;
+}
+
+.row{
+    justify-content: center;
+}
+
+.card-header{
+    font-size: 1.2rem;
+    
+}
+
+.Btn_dodaj{
+    text-align: center;
+}
+
+.container_addEmployee{
+    width: 500px;
+}
